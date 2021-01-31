@@ -1,2 +1,2 @@
 #!/bin/bash
-rm | grep Cc
+rm | grep -e "C" -e "c"
