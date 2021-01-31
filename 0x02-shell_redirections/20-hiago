@@ -1,2 +1,2 @@
 #!/bin/bash
-rm | grep 'Cc' Chicago
+grep -v 'Cc' Chicago
